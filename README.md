@@ -9,7 +9,7 @@ gem 'selenium-webdriver', '~> 4.27'
 gem 'rspec', '~> 3.13'
 gem 'site_prism', '~> 5.1'
 
-"gem install" no terminal para que o computador carregue todas as gems.
+"bundler install" no terminal para que o computador carregue todas as gems.
 
 "cucumber --init"
 
