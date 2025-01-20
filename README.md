@@ -1,4 +1,8 @@
 
+Projeto de automação da página de login do Linkedin utilizando Ruby, Cucumber, Capybara e Selenium Webdriver, realizado com instruções do canal QAlizando. |
+
+************************************************
+
 Arquivo Gemfile: Armazenará as Ruby Gems do projeto
 
 Gem bundler: responsável pelo gerenciamento de dependências das gems
