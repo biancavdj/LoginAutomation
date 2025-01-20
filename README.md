@@ -35,7 +35,7 @@ Incrementar (se já existir) ou criar um arquivo.feature novo
 
 Rodar o comando cucumber para gerar as chaves
 
-Colas as chaves geradas no arquivo.step ou criar um novo  arquivo.step caso seja necessário
+Colar as chaves geradas no arquivo.step ou criar um novo  arquivo.step caso seja necessário
 
 Mapear elementos que o teste irá interagir e criar métodos de ações novas caso necessário em arquivos.page.rb. Caso necessário, criar um novo.
 
