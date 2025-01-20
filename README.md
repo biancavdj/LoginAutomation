@@ -1,5 +1,5 @@
 
-Projeto de automação da página de login do Linkedin utilizando Ruby, Cucumber, Capybara e Selenium Webdriver, realizado com instruções do canal QAlizando. |
+Projeto de automação da página de login do Linkedin utilizando Ruby, Cucumber, Capybara e Selenium Webdriver, realizado com instruções do canal QAlizando. 
 
 ************************************************
 
