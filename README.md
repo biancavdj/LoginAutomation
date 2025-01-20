@@ -11,7 +11,7 @@ gem 'site_prism', '~> 5.1'
 
 "bundler install" no terminal para que o computador carregue todas as gems.
 
-"cucumber --init"
+"cucumber --init" para iniciar o projeto e as pastas serem geradas automaticamente
 
 importar as gems no arquivo env.rb gerado
 
